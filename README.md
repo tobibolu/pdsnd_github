@@ -11,6 +11,7 @@ Made use of Python programming to explore data related to bike share systems in 
 chicago.csv
 new_york_city.csv
 washington.csv
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
