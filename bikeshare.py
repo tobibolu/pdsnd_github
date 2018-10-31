@@ -193,8 +193,8 @@ def user_stats(df):
     print("The count of different kinds of users is : %s" % user_types)
 
 
-    gender_count = df['Gender'].value_counts()
-    print("The count of males and females is : %s" % gender_count)
+    gender_number = df['Gender'].value_counts()
+    print("The count of males and females is : %s" % gender_number)
 
     oldest_year = df['Birth Year'].min()
     newest_year = df['Birth Year'].max()
