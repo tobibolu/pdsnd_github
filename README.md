@@ -2,10 +2,10 @@
 October 31st 2018
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Made use of Python programming to explore data related to bike share systems in Chicago, New York City and Washington
 
 ### Files used
 Include the files used
